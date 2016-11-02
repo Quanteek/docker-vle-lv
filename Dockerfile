@@ -1,4 +1,4 @@
-FROM quanteek/vle:1.1.2
+FROM quanteek/vle:latest
 MAINTAINER quanteek
 
 #create project
