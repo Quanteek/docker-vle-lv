@@ -26,7 +26,7 @@ else
 fi
 
 # split input file
-split -l2 $1 p_
+split -l4 $1 p_
 NPROC=0
 for i in $(ls p_*)
 do
